@@ -105,15 +105,15 @@ IntelliSign/
 git clone https://github.com/DhawalShankar/IntelliSign.git
 cd IntelliSign
 ```
-###2. Setup Environment
+### 2. Setup Environment
 ```python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-###3. Run Prediction
+### 3. Run Prediction
 ```python src/predict.py
 ```
-###4. Run with Gemini API (Optional)
+### 4. Run with Gemini API (Optional)
 
 Add your Gemini API key in .env
 ```GEMINI_API_KEY=your_key_here
