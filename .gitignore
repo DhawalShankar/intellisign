@@ -1,0 +1,17 @@
+# Ignore Python cache & environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+models/
+# Ignore model & large files
+*.pkl
+*.h5
+*.so
+
+# Ignore system files
+.DS_Store
