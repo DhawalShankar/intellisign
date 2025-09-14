@@ -36,7 +36,7 @@ Existing solutions are either **too costly**, **not portable**, or **lack real-t
 ---
 
 ## ⚙️ Project Structure  
-
+```bash
 IntelliSign/
 │── data/ # Training & testing datasets
 │ ├── train/
@@ -66,7 +66,7 @@ IntelliSign/
 │ └── report.pdf
 │
 └── README.md
-
+```
 ---
 
 ## 📊 Dataset & Evaluation  
